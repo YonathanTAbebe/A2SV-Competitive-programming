@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/YonathanTAbebe/A2SV-Competitive-programming/tree/master/0001-two-sum) |
 | [0387-first-unique-character-in-a-string](https://github.com/YonathanTAbebe/A2SV-Competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
@@ -22,6 +23,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/YonathanTAbebe/A2SV-Competitive-programming/tree/master/0001-two-sum) |
 | [1651-shuffle-string](https://github.com/YonathanTAbebe/A2SV-Competitive-programming/tree/master/1651-shuffle-string) |
 ## Two Pointers
 |  |
