@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/YonathanTAbebe/A2SV-Competitive-programming/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/YonathanTAbebe/A2SV-Competitive-programming/tree/master/0066-plus-one) |
 | [1651-shuffle-string](https://github.com/YonathanTAbebe/A2SV-Competitive-programming/tree/master/1651-shuffle-string) |
 ## Two Pointers
 |  |
@@ -33,4 +34,8 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/YonathanTAbebe/A2SV-Competitive-programming/tree/master/0392-is-subsequence) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/YonathanTAbebe/A2SV-Competitive-programming/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
