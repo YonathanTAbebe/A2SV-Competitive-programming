@@ -28,6 +28,7 @@
 | [0066-plus-one](https://github.com/YonathanTAbebe/A2SV-Competitive-programming/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/YonathanTAbebe/A2SV-Competitive-programming/tree/master/0283-move-zeroes) |
 | [1651-shuffle-string](https://github.com/YonathanTAbebe/A2SV-Competitive-programming/tree/master/1651-shuffle-string) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/YonathanTAbebe/A2SV-Competitive-programming/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/YonathanTAbebe/A2SV-Competitive-programming/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Two Pointers
 |  |
