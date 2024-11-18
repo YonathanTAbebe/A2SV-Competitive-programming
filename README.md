@@ -43,6 +43,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/YonathanTAbebe/A2SV-Competitive-programming/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/YonathanTAbebe/A2SV-Competitive-programming/tree/master/0066-plus-one) |
 ## Sorting
 |  |
