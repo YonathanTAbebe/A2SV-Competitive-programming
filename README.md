@@ -40,12 +40,14 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/YonathanTAbebe/A2SV-Competitive-programming/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/YonathanTAbebe/A2SV-Competitive-programming/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/YonathanTAbebe/A2SV-Competitive-programming/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/YonathanTAbebe/A2SV-Competitive-programming/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/YonathanTAbebe/A2SV-Competitive-programming/tree/master/0070-climbing-stairs) |
 ## Sorting
 |  |
 | ------- |
@@ -62,4 +64,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/YonathanTAbebe/A2SV-Competitive-programming/tree/master/0021-merge-two-sorted-lists) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/YonathanTAbebe/A2SV-Competitive-programming/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
